@@ -1,8 +1,6 @@
-## MAILER APP
+## Email Manager with Flask and SMTPLib
 
-APLICATION FOR SENT EMAIL WITH A REST API SERVICE thath save the information in data base created in SQL 
-aplication of knoleg
-
+This project is a web application developed with Flask that allows sending emails using the smtplib API. Additionally, sent emails are stored in an SQL database, enabling their management and later retrieval.
 
 
 ![image](imagenes/124435.png)
